@@ -121,5 +121,4 @@ Here are the top 10 most interesting insights selected:
 
 ## 8. Contact Information
 For any questions or comments, please contact:
-- **Phone:** +258 855673021
 - **Email:** sheltonelias992@gmail.com

@@ -1,0 +1,42 @@
+///// Distribuição de Sentimento/Emotion:
+- Por evento
+- Por plataforma (drill down)
+
+///// Volume de Comentários
+- Volume de comentarios ao longo do tempo
+- Total de comentarios por evento dropdown por plataforma
+
+///// Análise de Engajamento:
+- Comparacao de Likes, comments e shares por evento e plataforma
+///// - Comentarios mais activos (mais likes, comments e shares)
+///// - Engajamento por sentimento/emocao
+///// - Impacto da verificacao no engajamento dos comentario (X)
+
+///// Distribuição Geográfica
+- Indicador de percentagem/quantidade do Rest
+
+///// Hora/Data:
+///// - Average commented hour & date por evento e plataforma
+///// - Faixa de horarios mais comentado por evento e plataforma
+///// - Distribuição Temporal de Comentários (drill down)
+///// - Distribuição Temporal de Sentimentos e Emocoes (drill down)
+
+Keyword/Discussed Topics:
+///// - Top 10 (Keywords all/DT exclude companies, etc)
+- Average, Total, Distribuicao percentual usando grafico Sentimentos & Emotion
+- Word Cloud
+
+1517 x 860
+
+TPC:
+Documentacao, como e onde publicar
+///// Cambiar Nombre
+///// Story: Cambiar Palabras Portuguesas, proper english. Font
+
+Insights:
+- Listar os insights
+- Analisar Graficos e fazer Questoes
+
+#0360d8
+#06b850
+#989898 - #2c2c2c

@@ -1,0 +1,12 @@
+document.getElementById('comments').scrollIntoView();
+els = document.getElementsByTagName('ytd-comment-thread-renderer');
+els[els.length-1].scrollIntoView();
+
+var pages = document.getElementsByTagName('span');
+for (var i = pages.length - 1; i >= 0; i--) {
+  var page = pages[i];
+  if(page.innerText.includes('View more comments')) {
+      page.click();
+    }
+}
+

@@ -1,0 +1,8 @@
+Twitter - TWCommentExport Extension
+Reddit - PRAW
+Youtube - WEBHARVY
+Facebook - ESUIT Extension
+Instagram - ESUIT Extension
+
+Python (Pandas, NLTK, tex2emotion, tqdm, collections, )
+VS Code
